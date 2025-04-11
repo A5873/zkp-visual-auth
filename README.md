@@ -34,6 +34,8 @@ A secure, privacy-focused authentication system that combines Zero-Knowledge Pro
 >
 > **Security Notice**: Cryptographic systems should always undergo professional audit before deployment in security-critical environments.
 
+👉 Check out our [Project Plan](PROJECT-PLAN.md) for details on future development roadmap, integration possibilities with various platforms (web frameworks, mobile apps, blockchain systems), and unique enhancement opportunities that will make this system even more powerful.
+
 ## ✨ Features
 
 - **Zero-Knowledge Proof Authentication**: Verify identity without ever transmitting or storing passwords
@@ -49,6 +51,7 @@ A secure, privacy-focused authentication system that combines Zero-Knowledge Pro
 - [Security Considerations](#-security-considerations)
 - [Usage Examples](#-usage-examples)
 - [Development Setup](#-development-setup)
+- [Project Plan](PROJECT-PLAN.md)
 - [Production Deployment](#-production-deployment)
 - [API Documentation](#-api-documentation)
 - [Contributing](#-contributing)
@@ -411,8 +414,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   |  ├─┼─┼─┼─┼─┼─┤  PRIVACY      |       /  │  \  
   |  ├─┼─┼─┼─┼─┼─┤  TRUST        |      /___│___\  
   |  └─┴─┴─┴─┴─┴─┘               |          │      
-  |                               |          │      
-  +-------------------------------+          │      
+  |                               |         │      
+  +-------------------------------+         │      
 ```
 
 Built with ❤️ for secure, privacy-focused authentication
