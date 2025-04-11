@@ -23,6 +23,17 @@ A secure, privacy-focused authentication system that combines Zero-Knowledge Pro
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
+> ## ⚠️ Development Status Notice
+> 
+> This project is currently **under active development**. While the core implementation of both the Zero-Knowledge Proof authentication and visual pattern verification is functional, please note:
+> 
+> - The cryptographic implementation requires formal security auditing before production use
+> - Additional safeguards and hardening measures are planned for future releases
+> - The visual pattern generation algorithm may undergo changes to enhance security
+> - The API endpoints might evolve in future versions
+>
+> **Security Notice**: Cryptographic systems should always undergo professional audit before deployment in security-critical environments.
+
 ## ✨ Features
 
 - **Zero-Knowledge Proof Authentication**: Verify identity without ever transmitting or storing passwords
