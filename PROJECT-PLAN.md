@@ -4,8 +4,8 @@
                                    Roadmap
  ┌────────────┐   ┌────────────┐   ┌────────────┐   ┌────────────┐
  │ Phase 1    │   │ Phase 2    │   │ Phase 3    │   │ Phase 4    │
- │ Core       │──>│ Enhanced   │──>│ Integration │──>│ Enterprise │
- │ Security   │   │ Features   │   │ Framework   │   │ Features   │
+ │ Core       │──>│ Enhanced   │──>│ Integration│──>│ Enterprise │
+ │ Security   │   │ Features   │   │ Framework  │   │ Features   │
  └────────────┘   └────────────┘   └────────────┘   └────────────┘
 ```
 
