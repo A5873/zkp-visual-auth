@@ -1,0 +1,35 @@
+# Core cryptographic and mathematical dependencies
+pycryptodome==3.19.0  # More secure and maintained alternative to pycrypto
+numpy==1.26.3
+pillow==10.1.0  # For image processing capabilities
+
+# Web framework and API dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0.post1
+python-multipart==0.0.6  # For handling form data in FastAPI
+pydantic==2.5.2  # Data validation for API
+starlette==0.27.0  # ASGI toolkit for FastAPI
+
+# Security and authentication dependencies
+python-jose==3.3.0  # For JWT handling
+passlib==1.7.4  # Password hashing
+bcrypt==4.0.1  # Strong password hashing
+cryptography==41.0.5  # Cryptographic recipes and primitives
+
+# Visualization dependencies
+pygame==2.5.2  # For visual pattern rendering
+
+# Production server dependencies
+gunicorn==21.2.0  # WSGI HTTP Server for Unix
+httptools==0.6.1  # Faster HTTP parsing
+uvloop==0.18.0  # Fast event loop for uvicorn
+
+# Monitoring and observability
+prometheus-client==0.17.1  # For metrics export
+python-json-logger==2.0.7  # JSON logging
+
+# Testing and development
+pytest==7.4.3
+pytest-asyncio==0.21.1  # For testing async endpoints
+httpx==0.25.2  # HTTP client for testing
+
